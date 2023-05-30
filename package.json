@@ -27,7 +27,6 @@
     "@prisma/client": "^4.0.0",
     "@prisma/generator-helper": "^4.0.0",
     "@prisma/internals": "^4.0.0",
-    "prettier": "^2.7.1",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
